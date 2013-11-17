@@ -1,7 +1,7 @@
 import mastermind
 
 a=6
-b=6
+b=4
 numtests=a**b
 totaltries=0
 maxtries=0
